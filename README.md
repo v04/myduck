@@ -1,5 +1,5 @@
 # myduck
-<!DOCTYPE html>
+
 <html><head>
     <title>myduck</title>
     <body>
